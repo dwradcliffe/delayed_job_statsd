@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pg (1.1.4)
+    statsd-instrument (2.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pg
+  statsd-instrument
+
+BUNDLED WITH
+   1.17.3
